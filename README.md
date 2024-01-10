@@ -71,5 +71,7 @@ Welcome to the Backend .NET Developer Roadmap! This repository is a curated list
 ### Software Containerization & Docker
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NTJTBGKI0GE3eJc2Q_SC2B-)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhCS2TJvGgu38P-Rf9aNXKZD)
+- [Big Data](https://youtu.be/PrusdhS2lmo?si=rpswQHWjGRZfpDro)
+- [Tresmerge](https://youtube.com/playlist?list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR&si=1Acfy8QScPuKspWK)
 
 Feel free to contribute by adding more resources or improving the structure of this roadmap. Happy coding!
