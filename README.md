@@ -7,12 +7,14 @@ Welcome to the Backend .NET Developer Roadmap! This repository is a curated list
 ### Database / SQL Server
 - [ITI Recordings](https://www.youtube.com/playlist?list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA)
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
+- [Kudvenkat Arabic](https://www.youtube.com/playlist?list=PL4cyC4G0M1RQ_Rm52cQ4CcOJ_T_HXeMB4)
 
 ### C#
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR)
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
 - [Code With Saad](https://www.youtube.com/playlist?list=PLZyQU-WOzZF1XNjL5mIqSv0HFnAlfQ8KQ)
+- [Kudvenkat Arabic (C# , OOP , Collections)](https://www.youtube.com/playlist?list=PL4cyC4G0M1RQh_Sjm9xe6e4MzncS8zvyX)
 
 ### Object-Oriented Programming (OOP)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAfq0EsDHH4YemBAd6G-H75)
@@ -34,6 +36,7 @@ Welcome to the Backend .NET Developer Roadmap! This repository is a curated list
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu)
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq)
 - [ITI Recordings Session 2 & 3](https://www.youtube.com/playlist?list=PLYpJKvLDuJhipnhVyfDr6Mpz8NLfJ7kyc)
+- [Mohammed Reda](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL)
 
 ### LINQ
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6)
@@ -48,6 +51,7 @@ Welcome to the Backend .NET Developer Roadmap! This repository is a curated list
 - [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WisNpNGLPCS1donYYAEQSI)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTVSVQ5k3UUMgj3RP8Qczwve)
 - [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp)
+- [Kudvenkat Arabic](https://www.youtube.com/playlist?list=PL4cyC4G0M1RQPub5EUkrCpv15xLqaaiNK)
 
 ### ASP.NET Core MVC
 - [ITI Recordings - Eng/Christiene Zareef (Highly Recommended)](https://drive.google.com/drive/u/0/folders/1HZwQYm-ME578H8ANkv9w4167NDCRWecF?fbclid=IwAR1lCISZUSWI-3cMJC7Y22yCw0iMgn_0Ra2VuSVnLTCaBWV-13e-CFUbKNg)
